@@ -1,11 +1,11 @@
 
 h1 {
-    font-family: Lobster;
+    font-family: 'Times New Roman', Times, serif
 }
 
 .ratings {
     color: red;
-    font-family: avenir;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
 
