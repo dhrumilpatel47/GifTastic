@@ -1,0 +1,7 @@
+.gifs{
+    float: left;
+}
+
+button, div, form, input {
+  margin: 8px;
+}
